@@ -1,4 +1,4 @@
-# Arrivati sull'isola
+## Arrivati sull'isola
 - A [[Porto Nyanzaru]]
 - Siamo stati portati alla villa del principe [[Wakanga O'tamu - Principe delle pergamene e pozioni]]
 - Incontrato [[Azaka]], una donna distratta nella villa
