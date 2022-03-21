@@ -15,5 +15,4 @@
 
 ## Cambio di vita
 - La [[Maeve Val'net - Sacerdotessa di Tymora]] mi da un [[Libro]] importante che mi darà accesso a [[Candlekeep]]
-- 
 

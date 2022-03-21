@@ -16,7 +16,7 @@ apriranno strade magistrali.
 
 ## Templio di Tymora
 - Aperto la porta della fortuna
-- Dentro c'era un messaggio di [[Maeve Val'net.jpeg]] -> ha trovato la notizia che da qualche parte nelle foreste in **Niazaru** è successo qualcosa (una strana maledizione) e sapeva già di non sopravvivere al giorno seguente.
+- Dentro c'era un messaggio di [[Maeve Val'net - Sacerdotessa di Tymora]] -> ha trovato la notizia che da qualche parte nelle foreste in **Niazaru** è successo qualcosa (una strana maledizione) e sapeva già di non sopravvivere al giorno seguente.
 - C'è un nome sulla lettera: [[Artus Cimber]] un arpista perso dai radar -> il suo avvistamento è motivo di preoccupazione.
 - C'era anche un libro di preghiere -> si possono leggere solo se si è un prete di Tymora, la maggioranza del libro appare vuoto.
 
