@@ -1,2 +1,1 @@
-# PROVA Readme
-Vediamo se funziona.
+Appunti per la campagna Tomb of Annihilation 
