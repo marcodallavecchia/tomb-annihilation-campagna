@@ -1,4 +1,5 @@
-# [[Porto Nyanzaru]]
+# In cerca di guide
+- A [[Porto Nyanzaru]]
 - Siamo rimasti nelle locande per trovare info e guide adatte
 	- [[La casa del riposo di Kaya]]
 	- [[Lucertola tonante]]
