@@ -1,0 +1,6 @@
+- Governato da **7 principi mercanti**
+- Unico porto abitato sulla costa
+- Ambiente protetto 
+- Dinosauri dappertutto anche per la manodopera e il trasporto
+- **Serraglio** per comprare un dinosauro
+- Non ci sono pirati in questo porto??

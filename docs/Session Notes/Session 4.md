@@ -1,0 +1,16 @@
+# Sessione 4
+- Arrivati a [[Porto Nyanzaru]]
+- Siamo stati portati alla villa del principe [[Wakanga O'tamu - Principe delle pergamene e pozioni]]
+- Incontrato [[Azaka]], una donna distratta nella villa
+- Principe delle guide prende un taglio su tutte le guide, non è un buon tizio dice [[Azaka]]
+- Incontrato [[Fiasca di Vino e Riva Nebbiosa]], due tabaxi nella villa
+- Wakanga dice:
+	- C'è un luogo che sarebbe da esplorare per capire da dove arriva la Deathcurse
+	- [[Città perduta di Omu]]
+	- Alcune guide conoscono certe aree meglio di altre
+	- Principe delle guide -> lo possiamo trovare al [[Trono Dorato]], si chiama Ifan Talroah
+	- Parte della penisola è stata travolta da non-morti
+- Abbiamo a disposizione una delle 2 locande in città nel **bazar del rosso**
+	- [[Lucertola tonante]] -> River e Luthien
+	- [[La casa del riposo di Kaya]] -> Klerikork, Gwaew e Shevrar
+- Incontrato [[Hew]]

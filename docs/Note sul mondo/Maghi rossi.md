@@ -1,0 +1,5 @@
+- **Thay** una magocrazia con i maghi rossi (Zulkier)
+- Ogni fazione fa parte di una scuola di magia
+- Schiavisti
+- Tiranni
+- Tatuaggi particolari e testa mezza rasata

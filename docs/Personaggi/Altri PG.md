@@ -1,0 +1,8 @@
+- Andrea -> **Kle' rikor' k** Orco grande Cherico 
+	- Dio: Kelemvor
+- Federica -> **Luthien** Elfa delle foreste 
+- Antonio -> **Gwaew** Elfa delle foreste rude barbara
+	- Nella foresta i Maghi Rossi hanno attaccato una roccia sacra degli Elfi
+	- Mythal degli alti elfi, monoliti per incanalare trama e potere
+- Mariangela -> **River Song** Tabaxi Archeologa Ladro
+	- Ha resuscitato Syndra con una clessidra che **ha perso**

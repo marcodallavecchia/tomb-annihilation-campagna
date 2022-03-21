@@ -1,0 +1,3 @@
+- Occhi scuri
+- Portava qualcosa alla mano (anello? guanto?)
+- La gente non si ricorda di lui -> illusione?

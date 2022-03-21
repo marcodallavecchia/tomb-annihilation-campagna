@@ -1,0 +1,2 @@
+- Agiscono in nome del bene e della giustizia
+- [[Maeve Val'net - Sacerdotessa di Tymora]] era una arpista
