@@ -1,5 +1,4 @@
-# Sessione 4
-- Arrivati a [[Porto Nyanzaru]]
+# [[Porto Nyanzaru]]
 - Siamo stati portati alla villa del principe [[Wakanga O'tamu - Principe delle pergamene e pozioni]]
 - Incontrato [[Azaka]], una donna distratta nella villa
 - Principe delle guide prende un taglio su tutte le guide, non è un buon tizio dice [[Azaka]]

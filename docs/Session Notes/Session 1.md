@@ -1,6 +1,6 @@
 ## Intro
 _2 Mirtul 1491 CV_
-- [[Maeve Val'net.jpeg]] è stata assasinata -> **non si sa come** (da banditi? Da un uomo calvo con tatuaggi? Un fascio d'energia spiritica?) -> sono stati i [[Maghi rossi]]
+- [[Maeve Val'net - Sacerdotessa di Tymora]] è stata assasinata -> **non si sa come** (da banditi? Da un uomo calvo con tatuaggi? Un fascio d'energia spiritica?) -> sono stati i [[Maghi rossi]]
 - L'hanno trovata morta vicino ad un piccolo mausoleo dimenticato di [[Baldur's Gate]].
 - Solitamente le persone di questo rango vengono resuscitata ma in questo caso non si può fare nulla
 
