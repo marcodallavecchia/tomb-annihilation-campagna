@@ -7,3 +7,7 @@
 - Klerikork, Shevrar e Gwaew hanno parlato di cose serie perchè ci tengono e sono responsabili ;)
 - [[Qawasha]] e [[Eku]] sono amici e potrebbero collaborare per aiutarci -> li possiamo ritrovare al mercato
 - [[Azaka]] vuole trovare una maschera -> accordo con River e Luthien?
+- Gwaew si sveglia in un'arena dopo aver lasciato Kerikork e Shevrar nella locanda
+	- Ha lasciato pezzi d'armatura e la sua spada alla locanda
+	- La gente del luogo la aiuta a tornare alla locanda
+- 
