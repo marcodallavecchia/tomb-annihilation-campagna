@@ -10,4 +10,8 @@
 - Gwaew si sveglia in un'arena dopo aver lasciato Kerikork e Shevrar nella locanda
 	- Ha lasciato pezzi d'armatura e la sua spada alla locanda
 	- La gente del luogo la aiuta a tornare alla locanda
-- 
+- Il gruppo si riforma tra le vie del mercato la mattina seguente
+- Shevrar -> si può trovare un divinatore in città?
+	- Investigation 16
+- [[Salida]] approccia il gruppo al mercato
+- [[Terme]] per discutere della [[Città perduta di Omu]] -> andiamo alle terme
