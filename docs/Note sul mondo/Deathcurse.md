@@ -1,0 +1,3 @@
+- Malattia / Maledizione che sta affliggendo [[Chult]] ma si sta espandendo alla costa della spada
+- Sembra aver causato una serie di esquilibri in [[Chult]] che ha causato l'espansione di moltissimi non-morti nella jungla
+- Potrebbe avere origine nella [[Città perduta di Omu]]?
