@@ -1,5 +1,5 @@
 ## Portrait
-![Hew](https://static.wikia.nocookie.net/forgottenrealms/images/d/d6/Hew_Hackinstone.jpg/revision/latest/top-crop/width/360/height/450?cb=20180209181249)
+![Hew](https://static.wikia.nocookie.net/forgottenrealms/images/d/d6/Hew_Hackinstone.jpg)
 
 ## Info
 - Guida storica di [[Porto Nyanzaru]]

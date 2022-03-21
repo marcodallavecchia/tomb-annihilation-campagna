@@ -1,5 +1,5 @@
 ## Portrait
-![Qawasha](https://static.wikia.nocookie.net/forgottenrealms/images/3/3c/Qawasha.jpg/revision/latest/top-crop/width/360/height/450?cb=20180211163616)
+![Qawasha](https://static.wikia.nocookie.net/forgottenrealms/images/3/3c/Qawasha.jpg)
 
 ## Info
 - Guida locale con omuncolo vegetale (piccolo Abe)
