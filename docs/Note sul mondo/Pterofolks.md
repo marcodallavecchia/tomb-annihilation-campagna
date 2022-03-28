@@ -1,0 +1,4 @@
+- Uccelli pterodattili preistorici umanoidi trogloditi
+- Popolo che vive in altezza in stormi
+- Hanno disguidi con gli [[Aarakocra]]
+- Tendono a spaventarsi facilmente

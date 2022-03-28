@@ -4,4 +4,5 @@
 ## Info
 - Amico di [[Qawasha]]
 - Odia i non-morti
+- Conosce la [[Città perduta di Omu]]
 - 

@@ -7,11 +7,11 @@
 - Klerikork, Shevrar e Gwaew hanno parlato di cose serie perchè ci tengono e sono responsabili ;)
 - [[Qawasha]] e [[Eku]] sono amici e potrebbero collaborare per aiutarci -> li possiamo ritrovare al mercato
 - [[Azaka]] vuole trovare una maschera -> accordo con River e Luthien?
-- Gwaew si sveglia in un'arena dopo aver lasciato Kerikork e Shevrar nella locanda
+- Gwaew si sveglia in un'arena dopo aver lasciato Klerikork e Shevrar nella locanda
 	- Ha lasciato pezzi d'armatura e la sua spada alla locanda
 	- La gente del luogo la aiuta a tornare alla locanda
 - Il gruppo si riforma tra le vie del mercato la mattina seguente
 - Shevrar -> si può trovare un divinatore in città?
-	- Investigation 16
+	- Per interpretare il sogno di Gwaew
 - [[Salida]] approccia il gruppo al mercato
 - [[Terme]] per discutere della [[Città perduta di Omu]] -> andiamo alle terme

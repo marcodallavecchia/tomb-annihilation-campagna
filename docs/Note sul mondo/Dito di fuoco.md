@@ -1,0 +1,3 @@
+- Una struttura di pietra molto alta
+- Potremmo usarla per avere una buona visuale della regione
+- Abitata da [[Pterofolks]]

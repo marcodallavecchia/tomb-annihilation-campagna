@@ -4,3 +4,5 @@
 - Dinosauri dappertutto anche per la manodopera e il trasporto
 - **Serraglio** per comprare un dinosauro
 - Non ci sono pirati in questo porto??
+- Magia è **quasi inesistente**
+- 
