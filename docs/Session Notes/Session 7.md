@@ -25,9 +25,10 @@
 
 ## In viaggio Mappa
 In canoa -> 2 hex
+
 A piedi -> 1 hex
 
-
+## Proseguiamo
 - Passiamo 2 giorni in viaggio parlando e **non perdendoci** grazie ad [[Azaka]]
 - Nella notte del secondo giorno River e Klerikork vedono delle luci svolazzanti nel buio 
 	- -> un omino nero con una maschera con gli occhi luccicanti
@@ -36,7 +37,7 @@ A piedi -> 1 hex
 - Ci addentriamo nella foresta verso delle rovine percependo dei non morti
 - Troviamo un gruppo attorno ad un fuoco
 	
-	> "Dannazione, questa jungla è un inferno.. E se non trovassimo [[Artus Cimber]]??"
+	> "Dannazione, questa giungla è un inferno.. E se non trovassimo [[Artus Cimber]]??"
 	> "Che cosa vuoi dire alla sovrana, che ci siamo rifiutati di trovarlo?!?"
 
 - Ed ancora una volta River Song è quella che è andata incontro al nemico ed ha trovato uno scheletro
