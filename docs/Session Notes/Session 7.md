@@ -35,6 +35,7 @@ A piedi -> 1 hex
 - Il giorno successivo ci fermiamo alla sera dove troviamo delle canoe abbandonate lungo il fiume
 - Ci addentriamo nella foresta verso delle rovine percependo dei non morti
 - Troviamo un gruppo attorno ad un fuoco
+	
 	> "Dannazione, questa jungla è un inferno.. E se non trovassimo [[Artus Cimber]]??"
 	> "Che cosa vuoi dire alla sovrana, che ci siamo rifiutati di trovarlo?!?"
 
