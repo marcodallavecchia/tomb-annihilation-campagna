@@ -1,4 +1,4 @@
-- Alle [[Terme]]
+## Alle terme
 - A [[Porto Nyanzaru]] c'è una grande chiesa di [[Savras]]
 	- Un anziano signore che gestisce la chiesa. [[Nonno Zitembe]]
 - Sarebbe da parlare col principe delle guide per assoldare una guida e pagarla?

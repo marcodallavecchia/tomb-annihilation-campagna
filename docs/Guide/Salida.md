@@ -9,5 +9,4 @@
 - è una delle più giovani guide
 	- prima era schiava di un [[Maghi rossi]]
 - Non è sacerdotesa di [[Sune]] ma crede in qualche principio in comune
-- Ha un profilo debole di magia attorno al suo profilo
-- 
+- Ha un profilo debole di magia attorno alla sua figura
