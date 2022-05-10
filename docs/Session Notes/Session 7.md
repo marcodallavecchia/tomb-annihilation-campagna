@@ -34,7 +34,7 @@ A piedi -> 1 hex
 	- -> un omino nero con una maschera con gli occhi luccicanti
 	- [[Qawasha]] ferma i due -> sono piccoli spiriti della foresta e potrebbero causare problemi se disturbati
 - Il giorno successivo ci fermiamo alla sera dove troviamo delle canoe abbandonate lungo il fiume
-- Ci addentriamo nella foresta verso delle rovine percependo dei non morti
+- Ci addentriamo nella foresta verso delle rovine percependo dei **non morti**
 - Troviamo un gruppo attorno ad un fuoco
 	
 	> "Dannazione, questa giungla è un inferno.. E se non trovassimo [[Artus Cimber]]??"
