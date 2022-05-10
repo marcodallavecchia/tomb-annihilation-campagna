@@ -1,4 +1,5 @@
 ![firefinger](https://roguewatson.files.wordpress.com/2019/05/firefinger.png)
+
 - Una struttura di pietra molto alta
 - Potremmo usarla per avere una buona visuale della regione
 - Abitata da [[Pterofolks]]
