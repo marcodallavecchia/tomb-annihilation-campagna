@@ -12,4 +12,11 @@
 ## Arriviamo al [[Dito di fuoco]]
 - River e Gwaew si avvicinano alla struttura di nascosto
 - Vicino ad una parete della struttura ci sono due cadaveri: uno molto vecchio, uno caduto dall'alto distruggendo la parte inferiore del corpo
-- 
+- Dall'altro lato ci sono corde e radici a formare una scala di 2-3 metri fino a portare ad un'insenatura naturale -> possibile ingresso?
+- River si arrampica su per la scala:
+	- sembra esserci una stanza piccola
+	- all'interno c'è molto buio e un venticello freddo da dentro
+	- River si perde 3 volte su 3 ma Gwaew aiuta e ritornano dal gruppo
+- [[Syndra]] manda un messaggio a Shevrar:
+	- Sta meglio
+	- Sta cercando informazioni per aiutarci a raggiungere la [[Città perduta di Omu]]
