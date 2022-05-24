@@ -1,0 +1,3 @@
+- [[Aarakocra]] che abbiamo trovato al terzo piano del [[Dito di fuoco]]
+- Era ingabbiato dagli [[Pterofolks]]
+- Ci deve la vita o almeno un favore

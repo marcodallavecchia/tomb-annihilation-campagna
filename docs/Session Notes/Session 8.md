@@ -20,4 +20,3 @@
 - [[Syndra]] manda un messaggio a Shevrar:
 	- Sta meglio
 	- Sta cercando informazioni per aiutarci a raggiungere la [[Città perduta di Omu]]
-- 
