@@ -10,7 +10,6 @@
 ![[WhatsApp Image 2022-05-24 at 11.07.03 PM (1).jpeg]]
 ![[WhatsApp Image 2022-05-24 at 11.07.04 PM.jpeg]]
 ![[WhatsApp Image 2022-05-25 at 12.10.53 AM.jpeg]]
-![[WhatsApp Image 2022-05-25 at 12.10.53 AM (1).jpeg]]
 ![[WhatsApp Image 2022-05-25 at 12.10.54 AM.jpeg]]
 ![[WhatsApp Image 2022-05-25 at 12.10.54 AM (1).jpeg]]
 ![[WhatsApp Image 2022-05-25 at 12.10.55 AM.jpeg]]
