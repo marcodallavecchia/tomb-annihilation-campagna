@@ -14,7 +14,7 @@
 	4. Chult sono pieni di bestie selvagge, specialmente dinosauri
 
 
-- Kle'rikor'k e River sono andati dal prigioniero alcolito che ci attaccato in [[Session 2]]
+- Kle'rikor'k e River sono andati dal prigioniero alcolito che ci attaccato in [[Session 02]]
 	- Si chiama **Vessa**
 	- Ha una macchia su metà faccia come da ustione (la macchia è come viva?), ce l'ha da un paio di giorni
 	- è la **stessa malattia di Syndra**

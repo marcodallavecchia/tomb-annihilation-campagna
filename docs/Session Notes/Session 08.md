@@ -3,7 +3,7 @@
 	- Abbiamo trovato un documento con dei **riferimenti a segni cardinali con indicazioni con specifiche coordinate** -> probabilmente sono posti più o meno protetti o salvi
 	- [[Eku]] sa di un posto tra le coordinate -> **sbloccato un nuovo posto**, possiamo andarci
 - Il cultista era in parte pelato ma non tatuaggi, ma aveva sul corpo delle rune legate alla necromanzia -> usate da figure importanti
-	- Il cultista ha parlato di una padrona [[Session 7]]
+	- Il cultista ha parlato di una padrona [[Session 07]]
 
 ## Riprendiamo il viaggio lungo il fiume
 - Tanto per cambiare Luthien viene distratta dagli scoiattoli
