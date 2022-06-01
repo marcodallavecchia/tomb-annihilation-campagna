@@ -24,6 +24,19 @@
 - [[Qawasha]] ci dice che ha notato che un paio di membri del nostro gruppo si sono ammalati
 - Diamo la maschera ad [[Azaka]], che ci dice che rimmarrà con noi come promesso. La maschera era di suo padre, e si commuove quando la riceve
 - LVL UP to LVL 4!
+## Verso [[Kir sabal]]
 - Luthien segue la luce divina del LVL up e ci porta quattro quadretti verso il templio [[Kir sabal]]
 - Troviamo un gruppo di Grung che evitiamo durante l'esplorazione
-## Verso [[Kir sabal]]
+- Forziamo la marcia per arrivare vicino al tempio prima di notte
+- Ci troviamo davanti ad una rupe con delle abitazioni scavate nella roccia
+- Gwaew non ci trova cibo quindi ci mangiamo i crackers scaduti
+## Inizia la scalata
+- C'è un piccolo sentiero da seguire per salire ma è molto difficoltoso e lungo
+- Arrivamo alla base della parete rocciosa e ci arrampichiamo
+	- Klerikork non può né scendere né salire ma alla fine sale
+- Passiamo un ponte
+- Ci arrampichiamo su un'ultima parete
+- COME DIAVOLO SCENDIAMO POI?
+## Arrivati a [[Kir sabal]]
+- Veniamo aiutati e raggiungiamo le prime abitazioni
+- 
