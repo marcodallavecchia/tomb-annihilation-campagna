@@ -1,0 +1,3 @@
+- è un campo avamposto allestito dagli umani provenienti della costa della spada
+- Mercenari o militari -> flaming fists?
+- 

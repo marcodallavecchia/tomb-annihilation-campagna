@@ -1,0 +1,3 @@
+- è un posto mistico dalle origini di questa penisola
+- è una zolla di terra fluttuante
+- era abitato da pipistrelli e altre creature volatili ma da poco sembra ci viva un ospite abbastanza potente

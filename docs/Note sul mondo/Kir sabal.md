@@ -1,0 +1,4 @@
+- è un posto tranquillo molto isolato
+- bisogna scalare per arrivarci
+- è in mano ad una sarcedotessa degli [[Aarakocra]]
+- se la sacerdotessa ha dei problemi di cui ha bisogno d'aiuto, non sappiamo di cosa potrebbe trattarsi

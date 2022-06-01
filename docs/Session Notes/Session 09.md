@@ -23,5 +23,5 @@
 ## In cima al dito
 - C'è una torre usata come dormitoio, in cima c'è una grande ciminiera con la fiamma potente 
 - I [[Pterofolks]] cominciano a tirarci dei sassi per farci uscire dall'edificio
-- Uno **pterofolk albino, con le ali decorate e una cicatrice**, ci tira un cadavere addosso per marcare il territorio
+- Uno **pterofolk albino, con le ali decorate e una cicatrice**, ci tira un cadavere addosso per marcare il territorio -> Nrak
 - 
