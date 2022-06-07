@@ -18,6 +18,7 @@
 	- Piumaggio grigiastro spennacchiato
 	- Ci da il benvenuto e già ha capito che vogliamo trovare la [[Città perduta di Omu]]
 	- La seguiamno al piano superiore, in una sala con dei cuscini e dei disegni semplici lungo la parete 
+## Principessa di Omu
 - Arrivano due giovani con un medaglione enorme al collo:
 	-  Na e Mwaxanaré: una ragazza più grande e un bambino molto giovane
 	- Lei è la principessa di [[Città perduta di Omu]]
@@ -47,4 +48,12 @@
 ## Fuori da [[Kir sabal]]
 - Scendiamo alla base della parete rocciosa grazie ad un canto magico di [[Asharra]]
 - Torniamo all'accampamento dalle guide
-- 
+- Decidiamo di andare a [[Nangalore]] solo con [[Qawasha]] e [[Eku]] e lasciare il resto dell'accampamento a riposare
+## Verso [[Nangalore]]
+- Luthien incaglia le canoe 20 volte sul fiume
+- Lasciamo le canoe indietro e ci incamminiamo verso il giardino
+- Ci arriviamo all'inizio del secondo giorno di viaggio da [[Kir sabal]]
+## Arrivati al giardino
+- Spendiamo due ore per evitare 3 metri di pantano ma ci impantaniamo comunque xD
+- Gwaew e River vanno a inspezionare l'area
+- Ci arrampichiamo e veniamo attaccati da qualcosa
