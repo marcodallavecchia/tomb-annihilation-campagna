@@ -1,0 +1,2 @@
+- è la sacerdotessa del templio [[Kir sabal]]
+- 

@@ -2,3 +2,4 @@
 - bisogna scalare per arrivarci
 - è in mano ad una sarcedotessa degli [[Aarakocra]]
 - se la sacerdotessa ha dei problemi di cui ha bisogno d'aiuto, non sappiamo di cosa potrebbe trattarsi
+- è praticamente un templio sacro per gli [[Aarakocra]]

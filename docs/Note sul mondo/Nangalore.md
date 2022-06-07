@@ -1,0 +1,6 @@
+- Giardino antico nascosto
+- Popolato da [[Ibis]] che non tollerrano [[Aarakocra]]
+- Gwaew si ricorda di una leggenda tramandata: giardino dedicato alla _gemma del Chult_, **Zalkoré**, la regina di [[Città perduta di Omu]]
+- Piccolo Abe di [[Qawasha]] viene da li
+- Non ci sono solo [[Ibis]], ma ci sono anche trappole ed una oscura presenza che può pietrificare
+- 

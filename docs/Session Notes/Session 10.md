@@ -38,5 +38,5 @@
 - Ci arrampichiamo su un'ultima parete
 - COME DIAVOLO SCENDIAMO POI?
 ## Arrivati a [[Kir sabal]]
-- Veniamo aiutati e raggiungiamo le prime abitazioni
+- Veniamo aiutati da [[Nephyr]] e raggiungiamo le prime abitazioni
 - 
