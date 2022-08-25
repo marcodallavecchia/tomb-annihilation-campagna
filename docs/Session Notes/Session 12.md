@@ -1,4 +1,4 @@
-# Nel giardino di [[Nangalore]]
+## Nel giardino di [[Nangalore]]
 - Veniamo attaccati da ragnacci giganti
 - In prossimità delle statue nel giardino ci sono delle scritte:
 > Questo giardino è dedicato a [[Zalkorè]], regina di Omu e gioiello di Chult
