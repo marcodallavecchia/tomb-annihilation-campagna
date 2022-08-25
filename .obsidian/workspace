@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5aeb99070884b43c",
+        "id": "434799a6fa10106d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Session Notes/Session 12.md",
+            "file": "docs/Meme Vault/Session 12 - Meme Vault.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Session Notes/Session 12.md",
+                "file": "docs/Meme Vault/Session 12 - Meme Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Session Notes/Session 12.md",
+                "file": "docs/Meme Vault/Session 12 - Meme Vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Session Notes/Session 12.md"
+                "file": "docs/Meme Vault/Session 12 - Meme Vault.md"
               }
             }
           }
@@ -128,10 +128,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5aeb99070884b43c",
+  "active": "434799a6fa10106d",
   "lastOpenFiles": [
-    "docs/Note sul mondo/Zalkorè.md",
+    "docs/Meme Vault/Session 12/WhatsApp Image 2022-08-26 at 00.22.34.jpeg",
+    "docs/Meme Vault/Session 12 - Meme Vault.md",
+    "docs/Meme Vault/Session 12/WhatsApp Image 2022-08-26 at 00.22.42.jpeg",
+    "docs/Meme Vault/Session 01 - Meme Vault.md",
     "docs/Session Notes/Session 12.md",
+    "docs/Note sul mondo/Zalkorè.md",
     "Zalkore.md",
     "docs/Session Notes/Session 11.md",
     "docs/Note sul mondo/Asharra.md"
