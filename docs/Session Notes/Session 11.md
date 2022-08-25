@@ -56,4 +56,4 @@
 ## Arrivati al giardino
 - Spendiamo due ore per evitare 3 metri di pantano ma ci impantaniamo comunque xD
 - Gwaew e River vanno a inspezionare l'area
-- Ci arrampichiamo e veniamo attaccati da qualcosa
+- Ci arrampichiamo e veniamo attaccati da qualcosa. Cosa sarà???
