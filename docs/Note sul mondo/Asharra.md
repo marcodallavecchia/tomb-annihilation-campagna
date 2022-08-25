@@ -1,2 +1,3 @@
 - è la sacerdotessa del templio [[Kir sabal]]
+- sacerdotessa del vento
 - 

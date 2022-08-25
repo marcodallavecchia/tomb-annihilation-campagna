@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Session Notes/Session 11.md",
+            "file": "docs/Session Notes/Session 12.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 245.5
   },
   "right": {
     "id": "c13902c30faf061a",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Session Notes/Session 11.md",
+                "file": "docs/Session Notes/Session 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Session Notes/Session 11.md",
+                "file": "docs/Session Notes/Session 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Session Notes/Session 11.md"
+                "file": "docs/Session Notes/Session 12.md"
               }
             }
           }
@@ -129,5 +129,11 @@
     "collapsed": true
   },
   "active": "5aeb99070884b43c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "docs/Note sul mondo/Zalkorè.md",
+    "docs/Session Notes/Session 12.md",
+    "Zalkore.md",
+    "docs/Session Notes/Session 11.md",
+    "docs/Note sul mondo/Asharra.md"
+  ]
 }
